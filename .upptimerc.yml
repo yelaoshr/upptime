@@ -8,9 +8,9 @@ sites:
   - name: Ascentrees ZH Page
     url: $ASCENTREES/zh-hans
   - name: YEC EN Page
-    url: $YEC/en
+    url: ${{ secrets.YEC }}/en
   - name: YEC ZH Page
-    url: $YEC
+    url: ${{ secrets.YEC }}
   - name: Yelaoshr EN Page
     url: $YELAOSHR
   - name: Yelaoshr ZH Page
