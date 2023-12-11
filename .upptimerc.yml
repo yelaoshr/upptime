@@ -11,7 +11,7 @@ sites:
     url: $YELAOSHR
   - name: Yelaoshr ZH Page
     url: $YELAOSHR/zh-hans
-  - name: Yec ZH Page
+  - name: Test Sample Web
     url: $YEC
 
 status-website:
