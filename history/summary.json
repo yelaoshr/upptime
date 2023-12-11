@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1344,
-    "timeDay": 1344,
-    "timeWeek": 1344,
-    "timeMonth": 1344,
-    "timeYear": 1344,
+    "time": 1271,
+    "timeDay": 1271,
+    "timeWeek": 1271,
+    "timeMonth": 1271,
+    "timeYear": 1271,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ascentrees-zh-page",
     "status": "up",
-    "uptime": "65.50%",
-    "uptimeDay": "65.50%",
-    "uptimeWeek": "65.50%",
-    "uptimeMonth": "65.50%",
-    "uptimeYear": "65.50%",
-    "time": 334,
-    "timeDay": 334,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "uptime": "71.55%",
+    "uptimeDay": "71.55%",
+    "uptimeWeek": "71.55%",
+    "uptimeMonth": "71.55%",
+    "uptimeYear": "71.55%",
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2023-12-11": 17
     }
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yec-en-page",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 60,
-    "timeDay": 60,
-    "timeWeek": 60,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 54,
+    "timeDay": 54,
+    "timeWeek": 54,
+    "timeMonth": 54,
+    "timeYear": 54,
     "dailyMinutesDown": {
-      "2023-12-11": 17
+      "2023-12-11": 27
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 10,
     "timeYear": 10,
     "dailyMinutesDown": {
-      "2023-12-11": 17
+      "2023-12-11": 27
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1381,
-    "timeDay": 1381,
-    "timeWeek": 1381,
-    "timeMonth": 1381,
-    "timeYear": 1381,
+    "time": 1238,
+    "timeDay": 1238,
+    "timeWeek": 1238,
+    "timeMonth": 1238,
+    "timeYear": 1238,
     "dailyMinutesDown": {}
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yelaoshr-zh-page",
     "status": "up",
-    "uptime": "77.54%",
-    "uptimeDay": "77.54%",
-    "uptimeWeek": "77.54%",
-    "uptimeMonth": "77.54%",
-    "uptimeYear": "77.54%",
-    "time": 1897,
-    "timeDay": 1897,
-    "timeWeek": 1897,
-    "timeMonth": 1897,
-    "timeYear": 1897,
+    "uptime": "47.49%",
+    "uptimeDay": "47.49%",
+    "uptimeWeek": "47.49%",
+    "uptimeMonth": "47.49%",
+    "uptimeYear": "47.49%",
+    "time": 1768,
+    "timeDay": 1768,
+    "timeWeek": 1768,
+    "timeMonth": 1768,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2023-12-11": 4
+      "2023-12-11": 14
     }
   }
 ]
