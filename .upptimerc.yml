@@ -13,6 +13,7 @@ sites:
     url: $YELAOSHR/zh-hans
   - name: Test Sample Web
     url: $YEC
+    maxResponseTime: 30000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
