@@ -7,14 +7,10 @@ sites:
     url: $ASCENTREES
   - name: Ascentrees ZH Page
     url: $ASCENTREES/zh-hans
-  - name: YEC EN Page
-    url: https://yec.edu.my/en
-  - name: YEC ZH Page
-    url: https://yec.edu.my/
   - name: Yelaoshr EN Page
     url: $YELAOSHR
-  # - name: Yelaoshr ZH Page
-  #   url: $YELAOSHR/zh-hans
+  - name: Yelaoshr ZH Page
+    url: $YELAOSHR/zh-hans
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
