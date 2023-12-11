@@ -11,6 +11,8 @@ sites:
     url: $YELAOSHR
   - name: Yelaoshr ZH Page
     url: $YELAOSHR/zh-hans
+  - name: Yec ZH Page
+    url: $YEC
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
