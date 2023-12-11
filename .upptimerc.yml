@@ -7,8 +7,8 @@ sites:
     url: $ASCENTREES
   - name: Ascentrees ZH Page
     url: $ASCENTREES/zh-hans
-  # - name: YEC EN Page
-  #   url: $YEC/en
+  - name: YEC EN Page
+    url: https://yec.edu.my/en
   - name: YEC ZH Page
     url: https://yec.edu.my/
   - name: Yelaoshr EN Page
