@@ -6,15 +6,15 @@ sites:
   - name: Ascentrees EN Page
     url: $ASCENTREES
   - name: Ascentrees ZH Page
-    url: $ASCENTREES_ZH
+    url: $ASCENTREES/zh-hans
   - name: YEC EN Page
-    url: $YEC
+    url: $YEC/en
   - name: YEC ZH Page
-    url: $YEC_ZH
+    url: $YEC
   - name: Yelaoshr EN Page
     url: $YELAOSHR
   - name: Yelaoshr ZH Page
-    url: $YELAOSHR_ZH
+    url: $YELAOSHR/zh-hans
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
