@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ascentrees-zh-page",
     "status": "up",
-    "uptime": "85.53%",
-    "uptimeDay": "85.53%",
-    "uptimeWeek": "85.53%",
-    "uptimeMonth": "85.53%",
-    "uptimeYear": "85.53%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
+    "uptime": "86.03%",
+    "uptimeDay": "86.03%",
+    "uptimeWeek": "86.03%",
+    "uptimeMonth": "86.03%",
+    "uptimeYear": "86.03%",
+    "time": 549,
+    "timeDay": 549,
+    "timeWeek": 549,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2023-12-11": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1500,
-    "timeDay": 1500,
-    "timeWeek": 1500,
-    "timeMonth": 1500,
-    "timeYear": 1500,
+    "time": 1491,
+    "timeDay": 1491,
+    "timeWeek": 1491,
+    "timeMonth": 1491,
+    "timeYear": 1491,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1665,
-    "timeDay": 1665,
-    "timeWeek": 1665,
-    "timeMonth": 1665,
-    "timeYear": 1665,
+    "time": 1655,
+    "timeDay": 1655,
+    "timeWeek": 1655,
+    "timeMonth": 1655,
+    "timeYear": 1655,
     "dailyMinutesDown": {
       "2023-12-11": 56
     }
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-sample-web",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 57,
+    "timeDay": 57,
+    "timeWeek": 57,
+    "timeMonth": 57,
+    "timeYear": 57,
     "dailyMinutesDown": {
-      "2023-12-11": 0
+      "2023-12-11": 4
     }
   }
 ]
