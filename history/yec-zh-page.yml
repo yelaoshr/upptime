@@ -1,7 +1,7 @@
-url: $YEC
+url: ${{ secrets.YEC }}
 status: down
-code: 403
-responseTime: 9
-lastUpdated: 2023-12-11T14:54:48.952Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-11T15:03:37.601Z
 startTime: 2023-12-11T14:27:36.501Z
 generator: Upptime <https://github.com/upptime/upptime>
