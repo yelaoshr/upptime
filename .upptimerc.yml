@@ -10,7 +10,7 @@ sites:
   # - name: YEC EN Page
   #   url: $YEC/en
   - name: YEC ZH Page
-    url: https://yec.edu.my
+    url: https://yec.edu.my/
   - name: Yelaoshr EN Page
     url: $YELAOSHR
   # - name: Yelaoshr ZH Page
