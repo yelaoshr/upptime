@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 1271,
-    "timeWeek": 1271,
-    "timeMonth": 1271,
-    "timeYear": 1271,
+    "time": 1288,
+    "timeDay": 1288,
+    "timeWeek": 1288,
+    "timeMonth": 1288,
+    "timeYear": 1288,
     "dailyMinutesDown": {}
   },
   {
@@ -23,58 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ascentrees-zh-page",
     "status": "up",
-    "uptime": "76.36%",
-    "uptimeDay": "76.36%",
-    "uptimeWeek": "76.36%",
-    "uptimeMonth": "76.36%",
-    "uptimeYear": "76.36%",
-    "time": 297,
-    "timeDay": 297,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "uptime": "81.32%",
+    "uptimeDay": "81.32%",
+    "uptimeWeek": "81.32%",
+    "uptimeMonth": "81.32%",
+    "uptimeYear": "81.32%",
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2023-12-11": 17
-    }
-  },
-  {
-    "name": "YEC EN Page",
-    "url": "$YEC/en",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "yec-en-page",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
-    "dailyMinutesDown": {
-      "2023-12-11": 40
-    }
-  },
-  {
-    "name": "YEC ZH Page",
-    "url": "$YEC",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "yec-zh-page",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 11,
-    "timeDay": 11,
-    "timeWeek": 11,
-    "timeMonth": 11,
-    "timeYear": 11,
-    "dailyMinutesDown": {
-      "2023-12-11": 40
     }
   },
   {
@@ -88,31 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1281,
-    "timeDay": 1281,
-    "timeWeek": 1281,
-    "timeMonth": 1281,
-    "timeYear": 1281,
+    "time": 1304,
+    "timeDay": 1304,
+    "timeWeek": 1304,
+    "timeMonth": 1304,
+    "timeYear": 1304,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Yelaoshr ZH Page",
-    "url": "$YELAOSHR/zh-hans",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "yelaoshr-zh-page",
-    "status": "up",
-    "uptime": "32.77%",
-    "uptimeDay": "32.77%",
-    "uptimeWeek": "32.77%",
-    "uptimeMonth": "32.77%",
-    "uptimeYear": "32.77%",
-    "time": 1731,
-    "timeDay": 1731,
-    "timeWeek": 1731,
-    "timeMonth": 1731,
-    "timeYear": 1731,
-    "dailyMinutesDown": {
-      "2023-12-11": 27
-    }
   }
 ]
