@@ -1,20 +1,20 @@
 [
   {
-    "name": "Ascentrees EN Pahe",
+    "name": "Ascentrees EN Page",
     "url": "$ASCENTREES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ascentrees-en-pahe",
+    "slug": "ascentrees-en-page",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 991,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "time": 1342,
+    "timeDay": 1342,
+    "timeWeek": 1342,
+    "timeMonth": 1342,
+    "timeYear": 1342,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "$ASCENTREES_ZH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ascentrees-zh-page",
-    "status": "down",
-    "uptime": "4.02%",
-    "uptimeDay": "4.02%",
-    "uptimeWeek": "4.02%",
-    "uptimeMonth": "4.02%",
-    "uptimeYear": "4.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.21%",
+    "uptimeDay": "2.21%",
+    "uptimeWeek": "2.21%",
+    "uptimeMonth": "2.21%",
+    "uptimeYear": "2.21%",
+    "time": 531,
+    "timeDay": 531,
+    "timeWeek": 531,
+    "timeMonth": 531,
+    "timeYear": 531,
     "dailyMinutesDown": {
-      "2023-12-11": 0
+      "2023-12-11": 3
     }
   }
 ]
