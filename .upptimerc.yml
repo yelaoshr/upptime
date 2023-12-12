@@ -12,7 +12,7 @@ sites:
   - name: Yelaoshr ZH Page
     url: $YELAOSHR/zh-hans
   - name: Test Sample Web
-    url: $YEC
+    url: https://yec.edu.my/blog
     maxResponseTime: 30000
 
 status-website:
