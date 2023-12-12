@@ -12,7 +12,7 @@ sites:
   - name: Yelaoshr ZH Page
     url: $YELAOSHR/zh-hans
   - name: Test YEC
-    url: https://yec.edu.my
+    url: "https://yec.edu.my"
     expectedStatusCodes:
       - 200
   - name: Test Trigger assets
