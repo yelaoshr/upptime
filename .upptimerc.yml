@@ -11,10 +11,8 @@ sites:
     url: $YELAOSHR
   - name: Yelaoshr ZH Page
     url: $YELAOSHR/zh-hans
-  - name: TEst ping again
-    url: "https://yec.edu.my/wp-content/uploads/2022/10/20221012_121501.jpeg.webp"
-  - name: Test Trigger assets
-    url: "https://yec.edu.my/wp-content/uploads/2022/05/YEC_logo_landscape-01.png.webp"
+  - name: Test back yec
+    url: "https://yec.edu.my"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
