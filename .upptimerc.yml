@@ -11,10 +11,8 @@ sites:
     url: $YELAOSHR
   - name: Yelaoshr ZH Page
     url: $YELAOSHR/zh-hans
-  - name: Test YEC
+  - name: TEst ping again
     url: "https://yec.edu.my"
-    expectedStatusCodes:
-      - 200
   - name: Test Trigger assets
     url: "https://yec.edu.my/wp-content/uploads/2022/05/YEC_logo_landscape-01.png.webp"
 
