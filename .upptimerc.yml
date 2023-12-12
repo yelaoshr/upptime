@@ -15,6 +15,9 @@ sites:
     url: https://yec.edu.my
     expectedStatusCodes:
       - 200
+  - name: Test Ping
+    check: "test-ping"
+    url: yec.edu.my
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
