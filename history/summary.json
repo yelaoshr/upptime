@@ -40,18 +40,20 @@
     "url": "$YELAOSHR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yelaoshr-en-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1412,
-    "timeDay": 1344,
-    "timeWeek": 1412,
-    "timeMonth": 1412,
-    "timeYear": 1412,
-    "dailyMinutesDown": {}
+    "time": 1373,
+    "timeDay": 821,
+    "timeWeek": 1373,
+    "timeMonth": 1373,
+    "timeYear": 1373,
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "Yelaoshr ZH Page",
@@ -59,13 +61,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yelaoshr-zh-page",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 1769,
-    "timeDay": 2085,
+    "timeDay": 1360,
     "timeWeek": 1769,
     "timeMonth": 1769,
     "timeYear": 1769,
@@ -90,7 +92,7 @@
     "timeMonth": 47,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2023-12-14": 38,
+      "2023-12-14": 1060,
       "2023-12-13": 1440,
       "2023-12-12": 1327
     }
