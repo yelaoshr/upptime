@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1278,
-    "timeDay": 1391,
-    "timeWeek": 1228,
-    "timeMonth": 1245,
-    "timeYear": 1278,
+    "time": 1279,
+    "timeDay": 1356,
+    "timeWeek": 1235,
+    "timeMonth": 1246,
+    "timeYear": 1279,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "ascentrees-zh-page",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 408,
-    "timeDay": 2026,
-    "timeWeek": 840,
+    "time": 406,
+    "timeDay": 277,
+    "timeWeek": 841,
     "timeMonth": 416,
-    "timeYear": 408,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2024-01-23": 19
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1314,
-    "timeDay": 1359,
-    "timeWeek": 1278,
+    "time": 1315,
+    "timeDay": 1356,
+    "timeWeek": 1275,
     "timeMonth": 1266,
-    "timeYear": 1314,
+    "timeYear": 1315,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2022,
-    "timeDay": 2987,
-    "timeWeek": 2517,
-    "timeMonth": 2248,
-    "timeYear": 2022,
+    "time": 2020,
+    "timeDay": 1905,
+    "timeWeek": 2518,
+    "timeMonth": 2228,
+    "timeYear": 2020,
     "dailyMinutesDown": {
       "2023-12-13": 21
     }
