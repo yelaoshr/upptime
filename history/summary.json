@@ -60,18 +60,19 @@
     "url": "$YELAOSHR/zh-hans",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yelaoshr-zh-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2070,
-    "timeDay": 3665,
-    "timeWeek": 2712,
-    "timeMonth": 2429,
-    "timeYear": 2070,
+    "time": 2060,
+    "timeDay": 2511,
+    "timeWeek": 2543,
+    "timeMonth": 2396,
+    "timeYear": 2060,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2023-12-13": 21
     }
   }
