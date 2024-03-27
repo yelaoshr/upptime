@@ -1,7 +1,7 @@
 url: $ASCENTREES
-status: up
-code: 200
-responseTime: 4091
-lastUpdated: 2024-03-26T23:17:42.808Z
+status: down
+code: 521
+responseTime: 378
+lastUpdated: 2024-03-27T02:05:02.873Z
 startTime: 2023-12-11T13:57:26.831Z
 generator: Upptime <https://github.com/upptime/upptime>
